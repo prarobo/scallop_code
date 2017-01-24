@@ -4,8 +4,11 @@
 * Visual_attn_distribution_stats: This directory contains the code that supports the first 3 layers of the scallop recognition pipeline.
 * scallop_part2: This directory holds the files that support the 4th layer of the scallop recognition pipeline. 
 
-To read about the 4 layers involved in the scallop recognition process, please refer to the paper below.
+To read about the 4 layers involved in the scallop recognition process, please refer to the papers below.
+
 Kannappan, P., Walker J. H., Trembanis A. and Tanner, H.G., ”Machine Learning for Detecting scallops in AUV Benthic Images: Targeting False Positives. ”Computer Vision and Pattern Recognition in Environmental Informatics, 22, 2015.
+
+Kannappan, P., Walker J. H., Trembanis A. and Tanner, H.G., ”Identifying sea scallops from benthic camera images. ”Limnology and Oceanography:Methods, vol. 12(10), pp. 680-693, 2014.
 
 ## File reference
 
