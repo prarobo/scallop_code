@@ -12,11 +12,11 @@ To read about the 4 layers involved in the scallop recognition process, please r
 
 ## File reference
 
-The 2 entry points for the first 3 layers is the files below. One corresponding to the learning part and the other handles the testing part fot his machine laerning algorithm. 
+The 2 entry points for the first 3 layers is the files below. One corresponding to the learning part and the other handles the testing part fot his machine learning algorithm. 
 * Visual_attn_distribution_stats/parallel_main_learning_metadata.m
 * Visual_attn_distribution_stats/parallel_main_testing_large2.m
 
-The 4th layer code depends on the results from the first 3 layers. The 4th layer essentially loads mat files from the previous 3 layer results. The entry point for the 4ht layer is the file below.
+The 4th layer code depends on the results from the first 3 layers. The 4th layer essentially loads mat files from the previous 3 layer results. The entry points for the 4th layer are the files below.
 * scallop_part2/scallop2_main_testing_layer4hog.m: 4th layer HOG descriptor implementation
 * scallop_part2/scallop2_main_testing_layer4template.m: 4th layer high-dimensional template matching implementation
 
@@ -24,7 +24,7 @@ The 4th layer code depends on the results from the first 3 layers. The 4th layer
 
 * Most of the entry point scripts have an initalization code block with parameters set on them. These need to be modified. The names are self-explanatory. If you have any question regarding specific parameters please contact me.
 
-* Some of the precomputed mat files have been excluded from this repository due the file size limitation imposed by github. The source data and images used for these algorithms have also been excluded from this repository.
+* Some of the precomputed mat files have been excluded from this repository due the file size limitations imposed by github. The source data and images used for these algorithms have also been excluded from this repository. You might need some of these files in some cases. I can send them to you on request.
 
 * Sorry about the messy version numbers attached to the source files. I wrote them before I was acquainted with version control.
 
