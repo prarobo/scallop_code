@@ -19,6 +19,8 @@ The 4th layer code depends on the results from the first 3 layers. The 4th layer
 
 ## Notes
 
+*Most of the entry point scripts have an initalization code block with parameters set on them. These need to be modified. The names are self-explanatory. If you have any question regarding specific parameters please contact me.
+
 *Some of the precomputed mat files have been excluded from this repository due the file size limitation imposed by github. The source data and images used for these algorithms have also been excluded from this repository.
 
 *Sorry about the messy version numbers attached to the source files. I wrote them before I was acquainted with version control.
